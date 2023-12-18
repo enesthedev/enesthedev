@@ -1,6 +1,6 @@
 <main align="left">
-    <h3>I am Enes Bayraktar, a Software Developer.</h3>
-    <p>The average person who fulfills his responsibilities on time and is capable of self-education. Primarly focues on back-end applications written in Java and TypeScript.</p>
+    <h3>I am Enes Bayraktar, a Developer.</h3>
+    <p>A developer known for delivering on-time and embracing self-education. My expertise lies in crafting robust back-end applications using PHP and TypeScript. Explore my GitHub to see my latest projects and contributions.</p>
     <div id="suggestions">
         <a href="https://www.linkedin.com/in/enesbayraktar/" target="_blank">LinkedIn</a> •
         <a href="https://twitter.com/klasikyazilimci" target="_blank">Twitter</a> •
