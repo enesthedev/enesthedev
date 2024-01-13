@@ -4,7 +4,7 @@
     <div id="suggestions">
         <a href="https://www.linkedin.com/in/enesbayraktar/">LinkedIn</a> •
         <a href="https://medium.com/@enesbayraktar">Medium</a> •
-        <a href="https://twitter.com/klasikyazilimci">Twitter</a> •
+        <a href="https://x.com/klasikyazilimci">X</a> •
         <a href="https://www.reddit.com/user/enesbayraktar">Reddit</a> •
         <a href="https://stackoverflow.com/users/18683822/enes-bayraktar">Stack Overflow</a> •
         <a href="https://github.com/enesthedev">View this page in English</a>
